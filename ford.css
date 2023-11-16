@@ -1,0 +1,309 @@
+body{
+    line-height: 1.5;
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hedder{
+    position:relative;
+    width: 100%;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+    
+}
+.hedder img{
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin-left: 55px;
+    margin-top: 15px;
+    
+}
+.hedder a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.atag{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+ .div2{
+    background-image: url(https://www.india.ford.com/content/ford/in/en_in/site-wide-content/billboard-carousels/homepage-billboard/jcr:content/par/billboard/imageComponent/image.imgs.full.high.png);
+    width: 100%;
+    height: 550px;
+    background-size: cover;
+ }
+ .button1{
+    background-color:rgb(21, 3, 99);
+    color: white;
+    font-weight: bold;
+    width: 130px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 450px;
+    font-style: normal;
+    border-radius: 30px;
+    border-color: white;
+    cursor: pointer;
+ }
+ .seconddiv{
+    margin-top: 50px;
+    
+    justify-content: center;
+    justify-content: space-around;
+    
+    width: 95%;
+    height: 550px;
+    background-image: url(https://www.india.ford.com/content/ford/in/en_in/site-wide-content/billboard-carousels/billboard-carousels-2/jcr:content/par/billboard/imageComponent/image.imgs.full.high.jpg);
+ }
+ .button2{
+    
+
+background-color:rgb(6, 6, 83);
+    color: white;
+    font-weight: lighter;
+    width: 180px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top:350px;
+    font-style: normal;
+    border-radius: 30px;
+    border-color: white;
+    cursor: pointer;
+ }
+ 
+ .img3{
+    width: 95%;
+    height: 545px;
+    background-image: url(https://www.india.ford.com/content/ford/in/en_in/home/jcr:content/par/common_box_341290494/generalParsys/billboard/imageComponent/image.imgs.full.high.jpg);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    
+    
+
+ }
+ .div4 h3{
+    font-size: 45px;
+    font-weight: lighter;
+    color: rgb(7, 7, 100);
+    margin-left: 80px;
+    margin-top: 30px;
+
+    
+ }
+ .div4 p{
+    color: rgb(7,7,100);
+    margin-left: 80px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+ }
+ .img4{
+    background: url(https://www.india.ford.com/content/ford/in/en_in/home/jcr:content/par/common_box_144434482/generalParsys/image/image.imgs.full.high.jpg/1638344751591.jpg) no-repeat center center/cover;
+    width: 90%;
+    height: 475px;
+    margin-left: 75px;
+    
+    } 
+    .div5 h4{
+        color: rgb(7, 7, 100);
+        margin-left: 80px;
+        font-size: 30px;
+        font-weight: lighter;
+        margin-top: 20px;
+    }
+    .div5 p{
+        font-size: 20px;
+    font-weight: lighter;
+    color: rgb(7, 7, 100);
+    margin-left: 80px;
+    margin-top: 30px;
+
+    }
+   
+    .div5 h5{
+    
+        color: rgb(7,7,100);
+        margin-left: 80px;
+        font-size: 20px;
+        font-weight: bold;
+        
+        font-weight: lighter;
+        margin-top: 20px;
+        cursor: pointer;
+        
+   }
+   .div6 h3{
+
+font-size: 45px;
+    font-weight: lighter;
+    color: rgb(7, 7, 100);
+    margin-left: 80px;
+    margin-top: 30px;
+   }
+   .div6 p{
+    font-size: 20px;
+    font-weight: lighter;
+    color: rgb(7, 7, 100);
+    margin-left: 80px;
+    margin-top: 30px;
+   }
+   .div7{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+   }
+   
+   .img1t h4{
+
+        color: rgb(7, 7, 100);
+       
+        font-size: 30px;
+        font-weight: lighter;
+        margin-top: 20px;
+
+   }
+   .img1t p{
+      
+    color: rgb(7, 7, 100);
+       
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 20px;
+
+   }
+   .div8 h5{
+    color: rgb(7, 7, 100);
+       
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+   }
+   .div8 p{
+    color: rgb(7, 7, 100);
+       
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 20px;
+    margin-left: 30px;
+   }
+   .div7{
+    display: flex;
+    
+    justify-content: space-evenly;
+   }
+   .img2t h4{
+
+    color: rgb(7, 7, 100);
+   
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20px;
+
+}
+.img2t p{
+  
+color: rgb(7, 7, 100);
+   
+font-size: 20px;
+font-weight: lighter;
+margin-top: 20px;
+}
+.div9{
+    margin-left: 35px;
+    justify-content: space-around;
+    display: flex;
+}
+.div10{
+    margin-top: 20px;
+}
+.div10 h3{
+
+        font-size: 50px;
+        font-weight: lighter;
+        color: rgb(7, 7, 100);
+        margin-left: 80px;
+        margin-top: 30px;
+}
+.div10 p{
+
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgb(7, 7, 100);
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.div11{
+    display: flex;
+    
+    justify-content: space-evenly;
+   }
+   .img3t h4{
+
+    color: rgb(7, 7, 100);
+   
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20px;
+
+}
+.img3t p{
+  
+color: rgb(7, 7, 100);
+   
+font-size: 20px;
+font-weight: lighter;
+margin-top: 20px;
+}
+.oontainer{
+    max-width: 1179PX;
+    background-color: red;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+UL{
+    list-style: none;
+}
+.footer{
+    background-color: #24262b;
+    padding: 70PX 0;
+
+}
+.footer-col{
+    width: 20%;
+    padding: 0;
+}
+.footer-col h4{
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight:700;
+    position: relative;
+}
+
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+
+}
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display:block 
+}
